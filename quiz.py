@@ -6,7 +6,7 @@ import datetime
 N_OF_QUESTIONS = 20
 
 class Quiz:
-    file = FileHandler("questions.txt")
+    file = FileHandler("itstep_vizsga1/questions.txt")
     questions = file.blocks_to_dict()
 
     def __init__(self, score = 0, question_number = 1, topic = ""):
@@ -119,7 +119,7 @@ class Quiz:
 
 
 class ScoreBoard:
-    statfile = FileHandler("stats.txt")
+    statfile = FileHandler("itstep_vizsga1/stats.txt")
     stats = statfile.blocks_to_dict()
 
     def __init__(self, score = 0, username = ""):

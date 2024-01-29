@@ -4,7 +4,7 @@ import sys
 
 
 class User:
-    file = FileHandler("users.txt")
+    file = FileHandler("itstep_vizsga1/users.txt")
     users = file.blocks_to_dict()
     
     def __init__(self, username = None, date_of_birth = None, password = None, logged_in = False):
@@ -97,6 +97,5 @@ class User:
 
     @user_logger
     def exit(self):
-        self.save_files()
         sys.exit(0)
     

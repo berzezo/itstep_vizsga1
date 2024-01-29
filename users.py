@@ -76,7 +76,9 @@ class User:
                 self.date_of_birth = input("Enter date of birth:\n")
             elif data_type == "b":
                     self.password = input("Enter new password:\n")
-                    self.users.update({"username": self.username, "date_of_birth": self.date_of_birth, "password": self.password, "logged_in": self.logged_in})
+            index_to_remove = next((index for index, d in enumerate(self.users) if d["username"] == self.username), None)
+            self.users.remove(self.users[index_to_remove])
+            self.users.append({"username": self.username, "date_of_birth": self.date_of_birth, "password": self.password, "logged_in": self.logged_in})
             return print("Successfully changed data")
         else:
             print("Please login first")

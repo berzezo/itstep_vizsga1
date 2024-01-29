@@ -1,0 +1,14 @@
+username: kartik2112
+password: test123
+date_of_birth: 1999-01-01
+logged_in: False
+
+username: pali
+password: test123
+date_of_birth: 1998-01-01
+logged_in: False
+
+username: a
+password: a
+date_of_birth: 1999-01-01
+logged_in: False

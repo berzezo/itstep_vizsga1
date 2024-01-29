@@ -1,0 +1,799 @@
+Topic: History
+Question: Who was the first President of the United States?
+a: Thomas Jefferson
+b: George Washington
+c: John Adams
+d: Benjamin Franklin
+Right answer: b
+
+Topic: History
+Question: What event marked the beginning of the Renaissance in Europe?
+a: Fall of Constantinople
+b: Invention of the printing press
+c: Signing of the Magna Carta
+d: Discovery of America by Columbus
+Right answer: a
+
+Topic: History
+Question: Who was the primary author of the Declaration of Independence?
+a: Thomas Jefferson
+b: John Adams
+c: James Madison
+d: Benjamin Franklin
+Right answer: a
+
+Topic: History
+Question: What was the main cause of the Opium Wars between China and Britain in the 19th century?
+a: Trade imbalance
+b: Religious conflicts
+c: Territorial disputes
+d: Cultural differences
+Right answer: a
+
+Topic: History
+Question: In which year did the Berlin Wall fall, leading to the reunification of East and West Germany?
+a: 1985
+b: 1989
+c: 1991
+d: 1995
+Right answer: b
+
+Topic: History
+Question: Name the two main political factions during the English Civil War in the 17th century.
+a: Cavaliers
+b: Roundheads
+c: Jacobites
+d: Whigs
+Right answer: a, b
+
+Topic: History
+Question: Who was the leader of the Bolsheviks during the Russian Revolution of 1917?
+a: Vladimir Lenin
+b: Joseph Stalin
+c: Leon Trotsky
+d: Nicholas II
+Right answer: a
+
+Topic: History
+Question: What was the primary cause of the French Revolution?
+a: Economic inequality
+b: Political corruption
+c: Social injustice
+d: Religious conflicts
+Right answer: a
+
+Topic: History
+Question: Which empire was overthrown during the Mexican Revolution in the early 20th century?
+a: Ottoman Empire
+b: Qing Dynasty
+c: Aztec Empire
+d: Romanov Dynasty
+Right answer: b
+
+Topic: History
+Question: Who were the major leaders involved in the American Civil Rights Movement?
+a: Martin Luther King Jr.
+b: Malcolm X
+c: Rosa Parks
+d: John F. Kennedy
+Right answer: a, b, c
+
+Topic: History
+Question: Which two ancient civilizations were part of the "Fertile Crescent"?
+a: Mesopotamia
+b: Egypt
+c: Indus Valley
+d: Ancient Greece
+Right answer: a, b
+
+Topic: History
+Question: What was the main cause of the Spanish Civil War in the 20th century?
+a: Nationalism
+b: Communism
+c: Fascism
+d: Imperialism
+Right answer: a
+
+Topic: History
+Question: Who was the last pharaoh of ancient Egypt?
+a: Cleopatra
+b: Tutankhamun
+c: Ramses II
+d: Hatshepsut
+Right answer: a
+
+Topic: History
+Question: Which country was the first to circumnavigate the globe?
+a: Portugal
+b: Spain
+c: England
+d: Netherlands
+Right answer: b
+
+Topic: History
+Question: Name the two main alliances during World War II.
+a: Axis Powers
+b: Allied Powers
+c: Central Powers
+d: Entente Powers
+Right answer: a, b
+
+Topic: History
+Question: What were the causes of the Boxer Rebellion in China during the late 19th century?
+a: Economic exploitation
+b: Religious tensions
+c: Imperialist expansion
+d: Political corruption
+Right answer: a, b, c
+
+Topic: History
+Question: Identify two ancient empires that existed in India.
+a: Maurya Empire
+b: Gupta Empire
+c: Mughal Empire
+d: Ottoman Empire
+Right answer: a, b
+
+Topic: History
+Question: Who were the main leaders of the independence movement in India?
+a: Mahatma Gandhi
+b: Jawaharlal Nehru
+c: Subhas Chandra Bose
+d: Muhammad Ali Jinnah
+Right answer: a, b, c
+
+Topic: History
+Question: What were the causes of the Hundred Years' War between England and France?
+a: Succession disputes
+b: Economic rivalry
+c: Religious conflicts
+d: Imperialist ambitions
+Right answer: a, b
+
+Topic: History
+Question: Name two of the Allied leaders during World War I.
+a: Woodrow Wilson
+b: David Lloyd George
+c: Georges Clemenceau
+d: Benito Mussolini
+Right answer: a, b, c
+
+Topic: Geography
+Question: What is the capital of Canada?
+a: Toronto
+b: Ottawa
+c: Vancouver
+d: Montreal
+Right answer: b
+
+Topic: Geography
+Question: Which ocean is the largest by area?
+a: Pacific Ocean
+b: Atlantic Ocean
+c: Indian Ocean
+d: Southern Ocean
+Right answer: a
+
+Topic: Geography
+Question: In which country would you find the Great Barrier Reef?
+a: Australia
+b: Brazil
+c: Mexico
+d: Thailand
+Right answer: a
+
+Topic: Geography
+Question: What is the capital of South Africa?
+a: Johannesburg
+b: Pretoria
+c: Cape Town
+d: Durban
+Right answer: b, c
+
+Topic: Geography
+Question: The city of Istanbul is located in two continents. Which continents are they?
+a: Europe and Africa
+b: Asia and Europe
+c: Asia and Africa
+d: Europe and Australia
+Right answer: b
+
+Topic: Geography
+Question: Name two of the Great Lakes in North America.
+a: Lake Superior
+b: Lake Michigan
+c: Lake Ontario
+d: Lake Baikal
+Right answer: a, b
+
+Topic: Geography
+Question: What is the highest mountain in North America?
+a: Mount McKinley
+b: Mount Logan
+c: Mount Elbert
+d: Denali
+Right answer: b, d
+
+Topic: Geography
+Question: Which desert is the largest in the world?
+a: Sahara Desert
+b: Arabian Desert
+c: Gobi Desert
+d: Antarctic Desert
+Right answer: d
+
+Topic: Geography
+Question: What is the capital of Japan?
+a: Beijing
+b: Seoul
+c: Tokyo
+d: Hanoi
+Right answer: c
+
+Topic: Geography
+Question: Which river flows through Cairo?
+a: Nile River
+b: Amazon River
+c: Danube River
+d: Thames River
+Right answer: a
+
+Topic: Geography
+Question: What is the largest island in the Mediterranean Sea?
+a: Sicily
+b: Sardinia
+c: Cyprus
+d: Crete
+Right answer: a, b
+
+Topic: Geography
+Question: Name two countries that share the island of Borneo.
+a: Indonesia
+b: Malaysia
+c: Philippines
+d: Vietnam
+Right answer: a, b
+
+Topic: Geography
+Question: Which African country is known as the "Rainbow Nation"?
+a: Nigeria
+b: Kenya
+c: South Africa
+d: Egypt
+Right answer: c
+
+Topic: Geography
+Question: Which strait separates the continents of Asia and Europe?
+a: Bering Strait
+b: Strait of Hormuz
+c: Bosporus Strait
+d: Gibraltar Strait
+Right answer: c
+
+Topic: Geography
+Question: In which country would you find the ancient city of Petra?
+a: Greece
+b: Jordan
+c: Italy
+d: Turkey
+Right answer: b
+
+Topic: Geography
+Question: What is the capital of Australia?
+a: Sydney
+b: Canberra
+c: Melbourne
+d: Brisbane
+Right answer: b
+
+Topic: Geography
+Question: Which European river is the longest?
+a: Danube River
+b: Thames River
+c: Rhine River
+d: Volga River
+Right answer: d
+
+Topic: Geography
+Question: Name two of the Scandinavian countries.
+a: Sweden
+b: Denmark
+c: Finland
+d: Switzerland
+Right answer: a, b, c
+
+Topic: Geography
+Question: What is the capital of Argentina?
+a: Santiago
+b: Buenos Aires
+c: Lima
+d: Montevideo
+Right answer: b
+
+Topic: Geography
+Question: Which mountain range separates Europe and Asia?
+a: Alps
+b: Ural Mountains
+c: Himalayas
+d: Andes
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the chemical symbol for water?
+a: O2
+b: H2O
+c: CO2
+d: NaCl
+Right answer: b
+
+Topic: Science & Nature
+Question: Which gas do plants absorb during photosynthesis?
+a: Oxygen
+b: Nitrogen
+c: Carbon Dioxide
+d: Hydrogen
+Right answer: c
+
+Topic: Science & Nature
+Question: What is the largest planet in our solar system?
+a: Earth
+b: Jupiter
+c: Mars
+d: Venus
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the powerhouse of the cell?
+a: Nucleus
+b: Mitochondria
+c: Ribosome
+d: Endoplasmic Reticulum
+Right answer: b
+
+Topic: Science & Nature
+Question: Which element has the chemical symbol 'Fe'?
+a: Iron
+b: Gold
+c: Silver
+d: Copper
+Right answer: a
+
+Topic: Science & Nature
+Question: What is the process by which plants make their own food?
+a: Respiration
+b: Photosynthesis
+c: Fermentation
+d: Transpiration
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the smallest unit of matter?
+a: Atom
+b: Molecule
+c: Cell
+d: Gene
+Right answer: a
+
+Topic: Science & Nature
+Question: Which planet is known as the "Red Planet"?
+a: Venus
+b: Mars
+c: Jupiter
+d: Saturn
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the function of the human liver?
+a: Digestion
+b: Blood Circulation
+c: Filtration of toxins
+d: Breathing
+Right answer: c
+
+Topic: Science & Nature
+Question: In the periodic table, what is the symbol for gold?
+a: Gd
+b: Au
+c: Ag
+d: Pt
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the largest organ in the human body?
+a: Heart
+b: Liver
+c: Skin
+d: Brain
+Right answer: c
+
+Topic: Science & Nature
+Question: What is the main component of the Earth's atmosphere?
+a: Oxygen
+b: Nitrogen
+c: Carbon Dioxide
+d: Hydrogen
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the speed of light in a vacuum?
+a: 300,000 kilometers per second
+b: 150,000 kilometers per second
+c: 600,000 kilometers per second
+d: 750,000 kilometers per second
+Right answer: a
+
+Topic: Science & Nature
+Question: What is the powerhouse of the sun?
+a: Nuclear Reactor
+b: Solar Flare
+c: Core
+d: Corona
+Right answer: c
+
+Topic: Science & Nature
+Question: Which gas is responsible for the Earth's greenhouse effect?
+a: Oxygen
+b: Nitrogen
+c: Carbon Dioxide
+d: Helium
+Right answer: c
+
+Topic: Science & Nature
+Question: What is the process of converting water vapor into liquid water called?
+a: Evaporation
+b: Condensation
+c: Precipitation
+d: Sublimation
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the main component of natural gas?
+a: Methane
+b: Propane
+c: Butane
+d: Ethane
+Right answer: a
+
+Topic: Science & Nature
+Question: Which scientist is known for the theory of general relativity?
+a: Isaac Newton
+b: Albert Einstein
+c: Galileo Galilei
+d: Marie Curie
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the smallest particle of an element that retains its chemical properties?
+a: Molecule
+b: Atom
+c: Electron
+d: Neutron
+Right answer: b
+
+Topic: Science & Nature
+Question: What is the primary function of red blood cells in the human body?
+a: Carrying oxygen
+b: Fighting infections
+c: Coagulation
+d: Detoxification
+Right answer: a
+
+Topic: Music
+Question: Who is known as the "King of Pop"?
+a: Elvis Presley
+b: Michael Jackson
+c: Madonna
+d: Prince
+Right answer: b
+
+Topic: Music
+Question: What instrument does Yo-Yo Ma play?
+a: Piano
+b: Violin
+c: Cello
+d: Trumpet
+Right answer: c
+
+Topic: Music
+Question: Which rock band was formed in Liverpool in 1960 and became a global phenomenon?
+a: The Rolling Stones
+b: The Who
+c: The Beatles
+d: Led Zeppelin
+Right answer: c
+
+Topic: Music
+Question: Who is famous for hits like "Billie Jean" and "Thriller"?
+a: Stevie Wonder
+b: Michael Jackson
+c: Prince
+d: David Bowie
+Right answer: b
+
+Topic: Music
+Question: What genre of music did Miles Davis revolutionize?
+a: Jazz
+b: Rock
+c: Hip-hop
+d: Country
+Right answer: a
+
+Topic: Music
+Question: In which decade did Elvis Presley become a major cultural icon?
+a: 1950s
+b: 1960s
+c: 1970s
+d: 1980s
+Right answer: a
+
+Topic: Music
+Question: Who is the lead vocalist of the rock band Queen?
+a: Freddie Mercury
+b: Mick Jagger
+c: Bono
+d: Robert Plant
+Right answer: a
+
+Topic: Music
+Question: What is the name of Beyoncé's debut solo album?
+a: Dangerously in Love
+b: Lemonade
+c: I Am... Sasha Fierce
+d: B'Day
+Right answer: a
+
+Topic: Music
+Question: Which classical composer was deaf later in life?
+a: Wolfgang Amadeus Mozart
+b: Ludwig van Beethoven
+c: Johann Sebastian Bach
+d: Franz Schubert
+Right answer: b
+
+Topic: Music
+Question: What is the main instrument in a traditional mariachi band?
+a: Trumpet
+b: Guitar
+c: Violin
+d: Accordion
+Right answer: a, b, c
+
+Topic: Music
+Question: Who is known for the iconic guitar riff in "Stairway to Heaven"?
+a: Jimi Hendrix
+b: Eric Clapton
+c: Jimmy Page
+d: Pete Townshend
+Right answer: c
+
+Topic: Music
+Question: Which country is the origin of flamenco music and dance?
+a: Italy
+b: Spain
+c: France
+d: Portugal
+Right answer: b
+
+Topic: Music
+Question: What is the Beatles' best-selling album of all time?
+a: Abbey Road
+b: Sgt. Pepper's Lonely Hearts Club Band
+c: The White Album
+d: Let It Be
+Right answer: a, b, c, d
+
+Topic: Music
+Question: Who is considered the "Queen of Soul"?
+a: Diana Ross
+b: Aretha Franklin
+c: Whitney Houston
+d: Tina Turner
+Right answer: b
+
+Topic: Music
+Question: Which famous pianist and composer was a child prodigy and went deaf later in life?
+a: Franz Liszt
+b: Ludwig van Beethoven
+c: Wolfgang Amadeus Mozart
+d: Johann Sebastian Bach
+Right answer: c
+
+Topic: Music
+Question: What is the name of the electronic music duo known for hits like "Get Lucky" and "One More Time"?
+a: Daft Punk
+b: The Chemical Brothers
+c: Disclosure
+d: Justice
+Right answer: a
+
+Topic: Music
+Question: Who was the lead singer of the band Nirvana?
+a: Eddie Vedder
+b: Kurt Cobain
+c: Chris Cornell
+d: Dave Grohl
+Right answer: b
+
+Topic: Music
+Question: Which famous composer was known for his "Moonlight Sonata" and "Symphony No. 9"?
+a: Wolfgang Amadeus Mozart
+b: Ludwig van Beethoven
+c: Johann Sebastian Bach
+d: Franz Schubert
+Right answer: b
+
+Topic: Music
+Question: In which genre is Bob Marley a legendary figure?
+a: Reggae
+b: Salsa
+c: Blues
+d: Hip-hop
+Right answer: a
+
+Topic: Music
+Question: Who is known for hits like "Purple Haze" and "Hey Joe"?
+a: Jim Morrison
+b: Jimi Hendrix
+c: Janis Joplin
+d: John Lennon
+Right answer: b
+
+Topic: Art and Literature
+Question: Who wrote "Romeo and Juliet"?
+a: William Shakespeare
+b: Jane Austen
+c: Charles Dickens
+d: Mark Twain
+Right answer: a
+
+Topic: Art and Literature
+Question: In which city is the famous painting "Mona Lisa" housed?
+a: Paris
+b: Rome
+c: London
+d: Madrid
+Right answer: a
+
+Topic: Art and Literature
+Question: Who is the author of "Pride and Prejudice"?
+a: Emily Brontë
+b: Jane Austen
+c: Charlotte Brontë
+d: Charles Dickens
+Right answer: b
+
+Topic: Art and Literature
+Question: What artistic movement does Pablo Picasso belong to?
+a: Surrealism
+b: Impressionism
+c: Cubism
+d: Baroque
+Right answer: c
+
+Topic: Art and Literature
+Question: Who painted "Starry Night"?
+a: Claude Monet
+b: Vincent van Gogh
+c: Leonardo da Vinci
+d: Pablo Picasso
+Right answer: b
+
+Topic: Art and Literature
+Question: Who wrote "To Kill a Mockingbird"?
+a: J.K. Rowling
+b: Harper Lee
+c: George Orwell
+d: Ernest Hemingway
+Right answer: b
+
+Topic: Art and Literature
+Question: Which ancient epic poem tells the story of the Trojan War?
+a: Iliad
+b: Odyssey
+c: Aeneid
+d: Gilgamesh
+Right answer: a
+
+Topic: Art and Literature
+Question: Who is the author of "1984"?
+a: Aldous Huxley
+b: George Orwell
+c: Ray Bradbury
+d: J.R.R. Tolkien
+Right answer: b
+
+Topic: Art and Literature
+Question: In which period did the Renaissance occur?
+a: Medieval
+b: Victorian
+c: Baroque
+d: Classical
+Right answer: a
+
+Topic: Art and Literature
+Question: Who painted the ceiling of the Sistine Chapel?
+a: Leonardo da Vinci
+b: Michelangelo
+c: Raphael
+d: Donatello
+Right answer: b
+
+Topic: Art and Literature
+Question: What is the famous play by William Shakespeare that features the character Hamlet?
+a: Macbeth
+b: Othello
+c: Hamlet
+d: King Lear
+Right answer: c
+
+Topic: Art and Literature
+Question: Who is the author of "One Hundred Years of Solitude"?
+a: Gabriel García Márquez
+b: Isabel Allende
+c: Mario Vargas Llosa
+d: Julio Cortázar
+Right answer: a
+
+Topic: Art and Literature
+Question: Which artist is known for his melting clocks in the painting "The Persistence of Memory"?
+a: Salvador Dalí
+b: Pablo Picasso
+c: Vincent van Gogh
+d: Claude Monet
+Right answer: a
+
+Topic: Art and Literature
+Question: Who wrote the "Divine Comedy"?
+a: Dante Alighieri
+b: Geoffrey Chaucer
+c: Homer
+d: Virgil
+Right answer: a
+
+Topic: Art and Literature
+Question: In literature, who is the creator of Sherlock Holmes?
+a: Agatha Christie
+b: Arthur Conan Doyle
+c: Raymond Chandler
+d: Dashiell Hammett
+Right answer: b
+
+Topic: Art and Literature
+Question: Who is the author of "The Great Gatsby"?
+a: F. Scott Fitzgerald
+b: Ernest Hemingway
+c: J.D. Salinger
+d: Harper Lee
+Right answer: a
+
+Topic: Art and Literature
+Question: What is the famous novel by Mary Shelley that tells the story of Victor Frankenstein and his creation?
+a: Dracula
+b: Frankenstein
+c: Wuthering Heights
+d: Jane Eyre
+Right answer: b
+
+Topic: Art and Literature
+Question: Which playwright is known for tragedies like "Hamlet," "Othello," and "King Lear"?
+a: William Wordsworth
+b: William Blake
+c: William Shakespeare
+d: William Faulkner
+Right answer: c
+
+Topic: Art and Literature
+Question: Who is the author of "The Catcher in the Rye"?
+a: J.K. Rowling
+b: J.D. Salinger
+c: F. Scott Fitzgerald
+d: Ernest Hemingway
+Right answer: b
+
+Topic: Art and Literature
+Question: Which art movement is characterized by bright colors, bold shapes, and distorted perspectives?
+a: Cubism
+b: Pop Art
+c: Abstract Expressionism
+d: Fauvism
+Right answer: d

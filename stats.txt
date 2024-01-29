@@ -1,0 +1,7 @@
+Timestamp: 2022-09-19 17:44:17.858167
+Username: pali
+Score: 18
+
+Timestamp: 2022-09-19 17:45:17.858167
+Username: pali
+Score: 20
